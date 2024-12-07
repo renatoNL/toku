@@ -1,0 +1,66 @@
+form {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 450px;
+    height: 550px;
+    margin: 200px 38%;
+    background-color: white;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+}
+
+textarea {
+    resize: none;
+}
+
+.camposEntrada {
+    display: flex;
+    justify-content: center;
+}
+
+.entradaUm {
+    width: 350px;
+    margin-bottom: 20px;
+}
+
+.entradaDois {
+    width: 350px;
+    margin-bottom: 5px;
+}
+
+.pergunta {
+    display: flex;
+    margin-left: 185px;
+}
+
+.BotaoEntrar {
+    display: flex;
+    justify-content: center;
+}
+
+.corBorda {
+    background-color: rgb(255, 58, 58);
+    width: 200px;
+    margin-left: 130px;
+    border-radius: 30px;
+    color: white;
+}
+
+.Botao {
+    margin-top: 40px;
+    width: 200px;
+    height: 30px;
+    background-color: rgba(252, 149, 149, 0.774);
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+
+a {
+    text-decoration: none;
+}

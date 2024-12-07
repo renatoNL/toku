@@ -1,0 +1,38 @@
+.titulo {
+    margin-left: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+    background: linear-gradient(to right, rgb(252, 149, 149), rgba(255, 0, 0, 0));
+    border-radius: 10px;
+}
+
+.descricaoMangatsu {
+    margin: 0 auto;
+    margin-top: 40px;
+    max-width: 80%;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.catalogodestaque {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.catalogoLancamento {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    position: relative;
+    left: 30px;
+}
+
+.manga img {
+    width: 190px;
+    height: 273px;
+}
+
+.manga {
+    margin-bottom: 40px;
+}
